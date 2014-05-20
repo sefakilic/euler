@@ -1,3 +1,5 @@
+* Euler
+
 My solutions for [[http://projecteuler.net/][Project Euler]] problems.
 
 [[http://projecteuler.net/profile/sefakilic.png]]
